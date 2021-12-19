@@ -1,6 +1,6 @@
-# Module 8 - Operating Platforms
+# CS-230 Module 8 - Operating Platforms
 
-Module 8 from the course Operating Platforms with the instructor Kevin Belcher
+Journal from the course Operating Platforms with the instructor Kevin Belcher
 
 - Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 
